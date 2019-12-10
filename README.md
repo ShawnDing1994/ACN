@@ -1,5 +1,5 @@
 # ACNet
-Redirection of ACNet repo.
+Redirection to ACNet repo.
 
 We sincerely thank the WeChat and Zhihu official accounts (e.g., https://zhuanlan.zhihu.com/p/93966695) which reported our ICCV-2019 paper 
 
